@@ -1,0 +1,55 @@
+Class Notes 9-7-23
+
+Module 3
+-__-__-__-__-__-__-__--__-__-__-__-__-__-__-
+
+Functions - printf, scanf 
+
+1. Name of the Functions
+2. The data type of params ()
+3. the return type of the function 
+
+Random num function - std library #include<>
+
+int x = 1 +rand()%100
+
+C math library---
+
+int abs(int x)
+
+double pow(double x, double y);
+            ^base    ^power
+
+double sqrt(double x); (square root)
+
+
+seeding a rand = use time.h
+
+Conditional Expressions - meaning an expression is going to be true or false    
+
+    condition: sales>= 10000; True= Bonus will be 1000 dollars; False= Bonus will be 0 dollars
+
+test to see if condition is true or false. If true = this,,,,, If false = that,,,,,
+
+Relational operators-------
+1. Equal to (==)
+2. Not equal to (!=)
+3. greater than (>)
+4. greater than or equal to (>=)
+5. less than (<)
+6. less than or equal to (<=)
+
+Logical or(||), Logical and (&&)
+
+logical or - you have at least 2 conditions ONLY 1 condition has to be true 
+logical and - both conditions have to be true
+
+Boolean Expressions
+
+if (boolean expression) {
+
+    statement1;
+    statement2;}
+else {
+    statement3;
+    }

@@ -1,0 +1,16 @@
+Class Notes 9-5-23
+
+-__-__-__-__-__-__-__--__-__-__-__-__-__-__-
+
+Peer tutoring - wed fr sun (2hr sessions)
+                11am-1:30pm,,,, ENG 2
+
+GET PINK SCAN TRONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+Implicit casting = comiler auto change data type
+explocit casting = casting done by putting keyword... ex (double)
+

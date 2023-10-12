@@ -1,0 +1,70 @@
+Class Notes 8/29/23 
+
+Chapter 1
+-__-__-__-__-__-__-__--__-__-__-__-__-__-__-
+
+
+vars ------
+coincides with a data type and location in memory. 
+
+primitive data types - 
+
+int - numeric value sotes a number (whole) (range- 2^-31 - 2^31)
+double - decimal precision -6.878910
+float - decimal precision 8.912
+
+char - represents letters, symobls and numbers (ex. 7-23-23) ascii, ebcdic, unicode 
+
+
+
+int feetInMile; //declare the var
+
+int feetInMile = 0; //declaration and an initialization 
+
+
+
+
+Types of errors in C -----
+
+Syntax error - forget to add.... ; or ) or }
+run time error - /0... something you cant do  
+logic errors - do not get expected results. No advice from compiler
+
+
+
+
+programming styles ------
+
+Include ample white space
+Indent all code inbetween functions
+Use a header comment to list items such as, author, date purpose, 
+Place comments in every major section 
+Make your vars meaningful 
+use uppercase for const 
+Be consistent 
+
+
+
+Rules for identifiers (vars)------
+
+must be comprised of letters, digits, and/or underscores
+a letter or _ has to be the first digit,letter
+in some instances casing matters
+must not be a keyword 
+
+
+
+Order of Precendence ------
+PEMDAS
+
+
+assignment operators--------
+
+increment operator- ++
+decrement operator - --
+
+
+
+shorthand assignments ------
+x = x+10; ====== x+=10;
+same for -, *, / 
