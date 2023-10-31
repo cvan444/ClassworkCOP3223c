@@ -1,0 +1,8 @@
+reccomended courses for embedded systems 
+-----------------------------------------
+* embedded systems design 
+* microcontroller/microproccessors
+* computer systems and architechture 
+* low-level programming
+* analog and digital circuits
+* data structures and algorithms 
